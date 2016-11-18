@@ -1,2 +1,0 @@
-# kippo
-Kippo - SSH Honeypot
